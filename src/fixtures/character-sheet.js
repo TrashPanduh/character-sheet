@@ -1,3 +1,9 @@
+const user = [
+    {name: "jake",
+    id:   1,
+    user: "Jeff",    
+    }
+]
 const backgrounds = [
     {
         title:"Race",
@@ -38,5 +44,6 @@ const attributes = [
 
 export {
     attributes,
-    backgrounds
+    backgrounds,
+    user
 }
